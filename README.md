@@ -71,9 +71,10 @@ api/v1/user/user username="user" password="pass" fullName="John Doe"
 
 # Créditos
 
-Desarrollado por: Diana Karina Jasso Monge
-
 Prof. Zuriel Dathan Mora Félix
+Desarrollado Diana Karina Jasso Monge
+
+
 
 
 
