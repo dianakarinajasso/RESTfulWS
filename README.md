@@ -25,6 +25,7 @@ Desplegar el archivo .war
 
 Uso
 
+
 Recurso api/v1/
 1.GET: Lista los recursos disponibles.
 2.OPTIONS: Documentación del recurso.
@@ -72,6 +73,8 @@ api/v1/user/user username="user" password="pass" fullName="John Doe"
 # Créditos
 
 Prof. Zuriel Dathan Mora Félix
+
+
 Desarrollado Diana Karina Jasso Monge
 
 
