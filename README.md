@@ -1,10 +1,10 @@
 # RESTfulWS
 
-RESTful Web Services - Evidencia de "Computación avanzada en Java " -
+# Evidencia de "Computación avanzada en Java " -
 
 
 
-Instalación# RESTfulWS
+# Instalación# RESTfulWS
 
 Importar a Eclipse
 1.Clic en File -> Import -> Existing Projects into Workspace.
@@ -69,7 +69,7 @@ api/v1/user/user username="user" password="pass" fullName="John Doe"
 3.DELETE: Elimina al usuario.
 4.OPTIONS: Documentación del recurso.
 
-Créditos
+# Créditos
 
 Desarrollado por: Diana Karina Jasso Monge
 
