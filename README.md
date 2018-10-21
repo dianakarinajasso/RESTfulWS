@@ -4,7 +4,7 @@
 
 
 
-# Instalación#
+# Instalación
 
 Importar a Eclipse
 1.Clic en File -> Import -> Existing Projects into Workspace.
